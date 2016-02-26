@@ -1,0 +1,7 @@
+{
+  "description" : "CodeIgniter CMS",
+  "name" : "blackwiz/ci_cms",
+  "require": {
+    "php": ">=5.3"
+  }
+}
